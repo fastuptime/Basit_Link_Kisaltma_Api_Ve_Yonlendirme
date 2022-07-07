@@ -1,0 +1,19 @@
+2022-07-07 05:39:25 ➾ Express Başlatıldı 
+2022-07-07 05:41:49 ➾ Express Başlatıldı 
+2022-07-07 05:43:18 ➾ Express Başlatıldı 
+2022-07-07 05:44:16 ➾ Express Başlatıldı 
+2022-07-07 05:44:19 ➾ undefined 
+2022-07-07 05:44:36 ➾ Express Başlatıldı 
+2022-07-07 05:44:39 ➾ /short is trying to be shortened 
+2022-07-07 05:45:20 ➾ Express Başlatıldı 
+2022-07-07 05:45:27 ➾ undefined 
+2022-07-07 05:45:50 ➾ Express Başlatıldı 
+2022-07-07 05:47:07 ➾ Express Başlatıldı 
+2022-07-07 05:47:10 ➾ https://kursatkenanilhan.com/ is trying to be shortened 
+2022-07-07 05:47:10 ➾ https://kursatkenanilhan.com/ short link: http://localhost:80/short/FcIDPK8DMHgz 
+2022-07-07 05:48:23 ➾ FcIDPK8DMHgz link: undefined visited 
+2022-07-07 05:48:23 ➾ undefined link: undefined visited 
+2022-07-07 05:49:53 ➾ Express Başlatıldı 
+2022-07-07 05:50:06 ➾ https://kursatkenanilhan.com/ is trying to be shortened 
+2022-07-07 05:50:07 ➾ https://kursatkenanilhan.com/ short link: http://localhost/short/d3UlB6S4PD4F 
+2022-07-07 05:50:15 ➾ d3UlB6S4PD4F link: http://localhost/short/d3UlB6S4PD4F visited 
